@@ -17,7 +17,7 @@ This project simulates a Slowloris Denial-of-Service attack on a locally hosted 
 
 ### Screenshot 1A: VirtualBox Host-Only Network
 
-![Screenshot 1A](screenshots/Screenshot 1A.png)  
+![Screenshot 1A](screenshots/Screenshot%201A.png)  
 We ensure the Host-Only network adapter exists and uses a 192.168.56.1/24 prefix.
 
 ---
